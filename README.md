@@ -16,4 +16,5 @@
 
 ​		[03 - 变量提升和函数提升](https://github.com/Hkaida/blog/blob/master/JavaScript/03%20-%20%E5%8F%98%E9%87%8F%E6%8F%90%E5%8D%87%E5%92%8C%E5%87%BD%E6%95%B0%E6%8F%90%E5%8D%87.md)
 
-​		[04 - 闭包](https://github.com/Hkaida/blog/blob/master/JavaScript/03%20-%20%E9%97%AD%E5%8C%85.md)
+​		[04 - 闭包](https://github.com/Hkaida/blog/blob/master/JavaScript/04%20-%20%E9%97%AD%E5%8C%85.md)
+

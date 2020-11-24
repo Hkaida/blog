@@ -18,3 +18,4 @@
 
 ​		[04 - 闭包](https://github.com/Hkaida/blog/blob/master/JavaScript/04%20-%20%E9%97%AD%E5%8C%85.md)
 
+​		[05 - 函数基础](https://github.com/Hkaida/blog/blob/master/JavaScript/05%20-%20%E5%87%BD%E6%95%B0%E5%9F%BA%E7%A1%80.md)

@@ -104,7 +104,7 @@ fn1();
 
 下图展示了实例 1 代码中的作用域链，以及各个层级作用域中的标识符：
 
-![](https://gitee.com/huang_kai_da/my-bolg-image/raw/master/JavaScript/JavaScript-02-1.png)
+![](./img/1.png)
 
 -----
 
@@ -184,6 +184,4 @@ fn2(); // 1
 
 
 <center>- END -</center>
-
-
 

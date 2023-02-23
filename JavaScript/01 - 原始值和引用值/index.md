@@ -14,12 +14,13 @@ JavaScript 存储在变量中的数据类型可以分成两种：
 
 ## 数据的存储
 
-**原始值**是直接存储在**栈(stack)**中的简单数据段，占用空间小、大小稳定，属于会被频繁访问的数据，所以存储在栈中。
+**原始值**是直接
 
-**引用值**是存储在**堆(heap)**中的对象，占用空间大，大小不固定。同时会在栈中存储一个该对象在堆内存中的内存地址（指针）。
+**原始值**是直接存储在 **栈(stack)** 中的简单数据段，占用空间小、大小稳定，属于会被频繁访问的数据，所以存储在栈中。
 
-![](https://gitee.com/huang_kai_da/my-bolg-image/raw/master/JavaScript/JavaScript-01-1.png)
+**引用值**是存储在 **堆(heap)** 中的对象，占用空间大，大小不固定。同时会在栈中存储一个该对象在堆内存中的内存地址（指针）。
 
+![](./img/1.png)
 
 
 ## 值的可变性
@@ -77,7 +78,7 @@ console.log(num1, num2); // 5  6
 
 原始值的复制过程如下图：
 
-![](https://gitee.com/huang_kai_da/my-bolg-image/raw/master/JavaScript/JavaScript-01-2.png)
+![](./img/2.png)
 
 把引用值通过一个变量赋值给另一个变量时，复制的值是栈中的指针，因此两个变量实际上是指向了堆中的同一个对象。对其中一个变量进行改动，也会影响另一个变量。
 
@@ -91,7 +92,7 @@ console.log(obj2); // { name: "小明" }
 
 引用值的复制过程如下图：
 
-![](https://gitee.com/huang_kai_da/my-bolg-image/raw/master/JavaScript/JavaScript-01-3.png)
+![](./img/3.png)
 
 
 

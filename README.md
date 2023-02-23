@@ -8,17 +8,17 @@
 
 ### 	JavaScript 系列
 
-​		[00 - 数据类型](https://github.com/Hkaida/blog/blob/master/JavaScript/00%20-%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+​		[00 - 数据类型](https://github.com/Hkaida/blog/blob/master/JavaScript/00%20-%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/index.md)
 
-​		[01 - 原始值和引用值](https://github.com/Hkaida/blog/blob/master/JavaScript/01%20-%20%E5%8E%9F%E5%A7%8B%E5%80%BC%E5%92%8C%E5%BC%95%E7%94%A8%E5%80%BC.md)
+​		[01 - 原始值和引用值](https://github.com/Hkaida/blog/blob/master/JavaScript/01%20-%20%E5%8E%9F%E5%A7%8B%E5%80%BC%E5%92%8C%E5%BC%95%E7%94%A8%E5%80%BC/index.md)
 
-​		[02 - 作用域和作用域链](https://github.com/Hkaida/blog/blob/master/JavaScript/02%20-%20%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE.md)
+​		[02 - 作用域和作用域链](https://github.com/Hkaida/blog/blob/master/JavaScript/02%20-%20%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE/index.md)
 
-​		[03 - 变量提升和函数提升](https://github.com/Hkaida/blog/blob/master/JavaScript/03%20-%20%E5%8F%98%E9%87%8F%E6%8F%90%E5%8D%87%E5%92%8C%E5%87%BD%E6%95%B0%E6%8F%90%E5%8D%87.md)
+​		[03 - 变量提升和函数提升](https://github.com/Hkaida/blog/blob/master/JavaScript/03%20-%20%E5%8F%98%E9%87%8F%E6%8F%90%E5%8D%87%E5%92%8C%E5%87%BD%E6%95%B0%E6%8F%90%E5%8D%87/index.md)
 
-​		[04 - 闭包](https://github.com/Hkaida/blog/blob/master/JavaScript/04%20-%20%E9%97%AD%E5%8C%85.md)
+​		[04 - 闭包](https://github.com/Hkaida/blog/blob/master/JavaScript/04%20-%20%E9%97%AD%E5%8C%85/index.md)
 
-​		[05 - 函数基础](https://github.com/Hkaida/blog/blob/master/JavaScript/05%20-%20%E5%87%BD%E6%95%B0%E5%9F%BA%E7%A1%80.md)
+​		[05 - 函数基础](https://github.com/Hkaida/blog/blob/master/JavaScript/05%20-%20%E5%87%BD%E6%95%B0%E5%9F%BA%E7%A1%80/index.md)
 
-​		[06 - 函数参数](https://github.com/Hkaida/blog/blob/master/JavaScript/06%20-%20%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0.md)
+​		[06 - 函数参数](https://github.com/Hkaida/blog/blob/master/JavaScript/06%20-%20%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0/index.md)
 

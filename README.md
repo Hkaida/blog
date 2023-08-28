@@ -22,3 +22,11 @@
 
 ​		[06 - 函数参数](https://github.com/Hkaida/blog/blob/master/JavaScript/06%20-%20%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0/index.md)
 
+​		[07 - 函数对象](https://github.com/Hkaida/blog/blob/master/JavaScript/07%20-%20%E5%87%BD%E6%95%B0%E5%AF%B9%E8%B1%A1/index.md)
+
+
+
+### 实践案例
+
+​		[00 - 重复请求处理——取消未完成的旧请求](https://github.com/Hkaida/blog/blob/master/Demo/00%20-%20%E9%87%8D%E5%A4%8D%E8%AF%B7%E6%B1%82%E5%A4%84%E7%90%86%E2%80%94%E2%80%94%E5%8F%96%E6%B6%88%E6%9C%AA%E5%AE%8C%E6%88%90%E7%9A%84%E6%97%A7%E8%AF%B7%E6%B1%82/index.md)
+
